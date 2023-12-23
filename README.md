@@ -1,6 +1,11 @@
 
 # Flight Reservation Web Application
 
+Commands to run the project: 
+
+javac -cp .:mysql-connector-j-8.2.0.jar FlightReservation.java
+java -cp .:mysql-connector-j-8.2.0.jar FlightReservation
+
 ## Introduction
 This project focuses on the design and development of a Flight Reservation Web Application. This web-based system caters to various users, including tourism agents, airline agents, and system admins.
 
