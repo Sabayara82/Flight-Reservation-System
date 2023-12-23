@@ -27,7 +27,8 @@ The primary goal of the project is to create a comprehensive system that enables
 - Manage flight information and other database-related tasks.
 - Browse flights, crews, aircraft, and registered users.
 - Add/remove crews, aircraft, flight destinations, and modify flight information.
-- Registered Users
+  
+### Registered Users
 - Can register for membership.
 - Can apply for the company's credit card.
 - Receive monthly promotion news.
