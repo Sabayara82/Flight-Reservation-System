@@ -2,7 +2,7 @@
 # Flight Reservation Web Application
 
 ## Introduction
-This repository contains the term project for ENSF 480 - Principles of Software Design, Fall 2023, conducted by Dr. M. Moussavi. The project focuses on the design and development of a Flight Reservation Web Application. This web-based system caters to various users, including tourism agents, airline agents, and system admins.
+This project focuses on the design and development of a Flight Reservation Web Application. This web-based system caters to various users, including tourism agents, airline agents, and system admins.
 
 ### Project Overview
 #### Objective
